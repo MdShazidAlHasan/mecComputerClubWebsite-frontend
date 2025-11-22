@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Sun, Moon, Phone, Mail, MessageCircle, Facebook, Linkedin, Youtube, Github } from "lucide-react";
+import { Sun, Moon, Phone, Mail, MessageCircle, Facebook, Linkedin, Youtube } from "lucide-react";
 import { useDarkMode } from "@/lib/DarkModeContext";
 import Link from "next/link";
 
